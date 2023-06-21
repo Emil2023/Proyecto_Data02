@@ -21,7 +21,7 @@ Análisis de cómo estas variables influyen en la demanda del producto.
 Generación de WordCloud para identificar palabras clave en los títulos de los cursos.
 
 
-##Indicadores clave de rendimiento (KPIs):
+## Indicadores clave de rendimiento (KPIs):
 Establecimiento de KPIs basados en el análisis de datos.
 Monitoreo de la eficacia de los objetivos de la empresa.
 
