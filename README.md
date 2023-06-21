@@ -25,6 +25,15 @@ Monitoreo de la eficacia de los objetivos de la empresa.
 
 ## Panel de control con Power BI:
 Visualización de los KPIs en un panel de control utilizando Power BI (herramienta externa).
+Se muestra los indicadores y avanzes de cada Curso Educativo
+
+
+
+![](https://static.wixstatic.com/media/f8eb0c_a6ce680ecff943df817679a09a99adb9~mv2.gif)
+
+
+
+
 
 
 
