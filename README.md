@@ -14,6 +14,7 @@ Prensentamos información a una startup interesada en cursos en línea.
 Utilización de conjuntos de datos para analizar la demanda de los cursos.
 Segmentación por nivel de ventas, precio, idioma, nivel y calificación.
 Análisis de cómo estas variables influyen en la demanda del producto.
+
 ![](https://bioxnet.com/wp-content/uploads/2015/12/kpi-que-son.png)
 
 ## WordCloud:
@@ -24,4 +25,5 @@ Monitoreo de la eficacia de los objetivos de la empresa.
 
 ## Panel de control con Power BI:
 Visualización de los KPIs en un panel de control utilizando Power BI (herramienta externa).
+
 ![](https://datascientest.com/es/wp-content/uploads/sites/7/2020/10/power-bi-logo-1.jpg)
