@@ -6,7 +6,8 @@ Los MOOCs (cursos masivos abiertos y online) han revolucionado la educación en 
 Plataformas como Udacity, edX y Coursera ofrecen acceso a contenido de calidad desde el hogar.
 Existen cursos gratuitos y de pago, lo que ha aumentado la competencia en el mercado.
 Las plataformas deben ajustar sus modelos de negocio y contenido para atraer y retener clientes.
-![](https://upload.wikimedia.org/wikipedia/commons/b/b8/MOOC_-_Massive_Open_Online_Course_logo.svg](https://www.shutterstock.com/image-vector/mooc-heads-massive-open-online-260nw-329968613.jpg)
+
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fes%2Fsearch%2Fmooc&psig=AOvVaw2MqX24uNH8wUo1tN5yYzE_&ust=1687442034073000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPC2wsrB1P8CFQAAAAAdAAAAABAJ)
 
 ## Desarrollo:
 Prensentamos información a una startup interesada en cursos en línea.
