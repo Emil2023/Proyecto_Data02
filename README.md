@@ -19,13 +19,22 @@ Análisis de cómo estas variables influyen en la demanda del producto.
 
 ## WordCloud:
 Generación de WordCloud para identificar palabras clave en los títulos de los cursos.
+
+
 ##Indicadores clave de rendimiento (KPIs):
 Establecimiento de KPIs basados en el análisis de datos.
 Monitoreo de la eficacia de los objetivos de la empresa.
 
 ## Panel de control con Power BI:
 Visualización de los KPIs en un panel de control utilizando Power BI (herramienta externa).
+
 Se muestra los indicadores y avanzes de cada Curso Educativo
+
+
+
+
+
+
 
 
 
