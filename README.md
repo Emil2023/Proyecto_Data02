@@ -13,7 +13,7 @@ Prensentamos información a una startup interesada en cursos en línea.
 Utilización de conjuntos de datos para analizar la demanda de los cursos.
 Segmentación por nivel de ventas, precio, idioma, nivel y calificación.
 Análisis de cómo estas variables influyen en la demanda del producto.
-
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbioxnet.com%2Fque-son-los-kpis-infografia%2F&psig=AOvVaw0nGIlyghY505x53oTRAKCV&ust=1687441911689000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOiCpJDB1P8CFQAAAAAdAAAAABAE)
 ## WordCloud:
 
 Generación de WordCloud para identificar palabras clave en los títulos de los cursos.
