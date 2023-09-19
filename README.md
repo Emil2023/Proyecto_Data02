@@ -1,5 +1,4 @@
-## **Proyecto Individual SoyHenry 02 Data Analytics**
-![](https://neurona-ba.com/wp-content/uploads/2021/07/HenryLogo.jpg)
+## **Proyecto Individual 02 Data Analytics**
 ## Contexto:
 
 Los MOOCs (cursos masivos abiertos y online) han revolucionado la educación en línea.
